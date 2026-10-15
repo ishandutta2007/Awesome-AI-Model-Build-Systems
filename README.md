@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-AI-Model-Build-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Model-Build-Systems?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-AI-Model-Build-Systems/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Model-Build-Systems?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Model-Build-Systems/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Model-Build-Systems?style=social" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Model-Build-Systems/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -77,75 +77,75 @@ The following table summarizes enterprise SaaS and managed cloud platforms suppo
 
 ## 🛠️ Open-Source GitHub Projects
 
-Below is the definitive index of open-source projects for building, training, orchestrating, and serving AI models. Each repository includes an official social star badge linking directly to its stargazers page. The entries are sorted strictly in **descending order by GitHub star count**.
+Below is the definitive index of open-source projects for building, training, orchestrating, and serving AI models. Each repository includes an official social Stars_Badge linking directly to its stargazers page. The entries are sorted strictly in **descending order by GitHub Stars_Count**.
 
-- **[Transformers](https://github.com/huggingface/transformers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
+- **[Transformers](https://github.com/huggingface/transformers)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
   *The core foundation library for state-of-the-art Machine Learning and deep neural network architectures (Apache-2.0).* Provides thousands of pretrained models for PyTorch, TensorFlow, and JAX with standardized interfaces for training, fine-tuning, and inference across NLP, vision, audio, and multimodal domains.
 
-- **[PyTorch](https://github.com/pytorch/pytorch)** [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social&color=white)](https://github.com/pytorch/pytorch/stargazers)  
+- **[PyTorch](https://github.com/pytorch/pytorch)** [![GitHub_Stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social&color=white)](https://github.com/pytorch/pytorch/stargazers)  
   *The premier open-source deep learning and tensor computation platform (Modified BSD).* Powers modern distributed AI training with Fully Sharded Data Parallel (FSDP), TorchDynamo compiler optimization, distributed tensor parallel primitives, and massive GPU cluster scaling.
 
-- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
+- **[vLLM](https://github.com/vllm-project/vllm)** [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
   *High-throughput and memory-efficient LLM serving engine (Apache-2.0).* Features **PagedAttention** algorithm for near-zero KV cache memory waste, continuous batching, chunked prefill, tensor and pipeline parallelism, and drop-in OpenAI-compatible API serving.
 
-- **[Unsloth](https://github.com/unslothai/unsloth)** [![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social&color=white)](https://github.com/unslothai/unsloth/stargazers)  
+- **[Unsloth](https://github.com/unslothai/unsloth)** [![GitHub_Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social&color=white)](https://github.com/unslothai/unsloth/stargazers)  
   *Ultra-fast, memory-optimized LLM and SLM fine-tuning framework (Apache-2.0).* Delivers **2x–5x faster training speeds** and **70%–80% reduced VRAM usage** via manual OpenAI Triton kernels for LoRA, QLoRA, and full fine-tuning of Llama, Gemma, Mistral, and DeepSeek models.
 
-- **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![GitHub stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social&color=white)](https://github.com/hiyouga/LLaMA-Factory/stargazers)  
+- **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![GitHub_Stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social&color=white)](https://github.com/hiyouga/LLaMA-Factory/stargazers)  
   *Easy-to-use, unified LLM post-training web UI and CLI platform (Apache-2.0).* Supports over 100 models with 16-bit, LoRA, QLoRA, DPO, PPO, ORPO, KTO alignment algorithms, multi-GPU scaling, and integrated web dashboard.
 
-- **[Ray](https://github.com/ray-project/ray)** [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
+- **[Ray](https://github.com/ray-project/ray)** [![GitHub_Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
   *The industry standard open-source unified distributed computing framework for AI (Apache-2.0).* Powers OpenAI's model training pipelines and Uber's platform. Includes **Ray Train** (distributed multi-node training), **Ray Serve** (scalable model serving), **Ray Tune** (HMM/HPO), and **Ray Core** (`@ray.remote` task distribution).
 
-- **[DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** [![GitHub stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social&color=white)](https://github.com/deepspeedai/DeepSpeed/stargazers)  
+- **[DeepSpeed](https://github.com/deepspeedai/DeepSpeed)** [![GitHub_Stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social&color=white)](https://github.com/deepspeedai/DeepSpeed/stargazers)  
   *Microsoft's deep learning optimization library for extreme-scale model training and inference (Apache-2.0).* Pioneers the **ZeRO** (Zero Redundancy Optimizer) memory architecture (ZeRO-1/2/3, ZeRO-Offload, ZeRO-Infinity), enabling trillion-parameter model training across commodity and high-end GPU clusters.
 
-- **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+- **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
   *The most widely adopted open-source MLOps lifecycle platform (Apache-2.0).* Delivers full experiment tracking, code packaging via MLflow Projects, centralized Model Registry, prompt engineering evaluation, and multi-flavor deployment interfaces.
 
-- **[Grok Build (xAI)](https://github.com/xai-org/grok-build)** [![GitHub stars](https://img.shields.io/github/stars/xai-org/grok-build?style=social&color=white)](https://github.com/xai-org/grok-build/stargazers)  
+- **[Grok Build (xAI)](https://github.com/xai-org/grok-build)** [![GitHub_Stars](https://img.shields.io/github/stars/xai-org/grok-build?style=social&color=white)](https://github.com/xai-org/grok-build/stargazers)  
   *xAI's open-source terminal coding agent harness and developer tool (Apache-2.0).* Built in high-performance Rust with interactive TUI, MCP server integration, subagent scheduling, dynamic context retrieval, and local-first execution paradigms.
 
-- **[LitGPT (Lightning AI)](https://github.com/Lightning-AI/litgpt)** [![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social&color=white)](https://github.com/Lightning-AI/litgpt/stargazers)  
+- **[LitGPT (Lightning AI)](https://github.com/Lightning-AI/litgpt)** [![GitHub_Stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social&color=white)](https://github.com/Lightning-AI/litgpt/stargazers)  
   *Hackable, clean, production-ready framework to pretrain, fine-tune, evaluate, and deploy 20+ LLMs (Apache-2.0).* Zero boilerplate code, native PyTorch 2.x FSDP support, LoRA/QLoRA quantization, and direct command-line workflows.
 
-- **[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)** [![GitHub stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social&color=white)](https://github.com/axolotl-ai-cloud/axolotl/stargazers)  
+- **[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)** [![GitHub_Stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social&color=white)](https://github.com/axolotl-ai-cloud/axolotl/stargazers)  
   *Declarative YAML-configured post-training and alignment framework (Apache-2.0).* Supports FSDP, DeepSpeed, LoRA, QLoRA, DPO, and flash-attention natively. Offers reproducible training configs from single GPU workstations to massive SLURM clusters.
 
-- **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** [![GitHub stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social&color=white)](https://github.com/bentoml/OpenLLM/stargazers)  
+- **[OpenLLM (BentoML)](https://github.com/bentoml/OpenLLM)** [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social&color=white)](https://github.com/bentoml/OpenLLM/stargazers)  
   *Operating framework for serving and running open-source LLMs in production (Apache-2.0).* Integrates vLLM, TensorRT-LLM, and AutoGPTQ backends with OpenAI-compatible streaming endpoints and one-click cloud container builds.
 
-- **[Triton Inference Server](https://github.com/triton-inference-server/server)** [![GitHub stars](https://img.shields.io/github/stars/triton-inference-server/server?style=social&color=white)](https://github.com/triton-inference-server/server/stargazers)  
+- **[Triton Inference Server](https://github.com/triton-inference-server/server)** [![GitHub_Stars](https://img.shields.io/github/stars/triton-inference-server/server?style=social&color=white)](https://github.com/triton-inference-server/server/stargazers)  
   *NVIDIA's enterprise-grade multi-framework inference serving software (Apache-2.0).* Maximizes GPU and CPU compute utilization with concurrent model execution, dynamic batching, model ensembles, and C++/Python/gRPC/HTTP APIs.
 
-- **[Xinference](https://github.com/xorbitsai/inference)** [![GitHub stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social&color=white)](https://github.com/xorbitsai/inference/stargazers)  
+- **[Xinference](https://github.com/xorbitsai/inference)** [![GitHub_Stars](https://img.shields.io/github/stars/xorbitsai/inference?style=social&color=white)](https://github.com/xorbitsai/inference/stargazers)  
   *Distributed inference framework for LLMs, speech recognition, and multimodal generation (Apache-2.0).* Automatically orchestrates model shards across heterogeneous devices (NVIDIA GPUs, Apple Silicon Metal, AMD ROCm, and CPUs).
 
-- **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
+- **[BentoML](https://github.com/bentoml/BentoML)** [![GitHub_Stars](https://img.shields.io/github/stars/bentoml/BentoML?style=social&color=white)](https://github.com/bentoml/BentoML/stargazers)  
   *The unified model serving and deployment framework for production ML systems (Apache-2.0).* Packages models, runtime environments, and inference logic into standardized deployable Bento artifacts with automatic micro-batching and containerization.
 
-- **[KServe](https://github.com/kserve/kserve)** [![GitHub stars](https://img.shields.io/github/stars/kserve/kserve?style=social&color=white)](https://github.com/kserve/kserve/stargazers)  
+- **[KServe](https://github.com/kserve/kserve)** [![GitHub_Stars](https://img.shields.io/github/stars/kserve/kserve?style=social&color=white)](https://github.com/kserve/kserve/stargazers)  
   *Standardized cloud-native model serving platform on Kubernetes (Apache-2.0).* Provides high-performance, serverless inference with scale-to-zero, GPU autoscaling, canary rollouts, explainability, and v2 data plane protocols.
 
-- **[TorchTitan](https://github.com/pytorch/torchtitan)** [![GitHub stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=social&color=white)](https://github.com/pytorch/torchtitan/stargazers)  
+- **[TorchTitan](https://github.com/pytorch/torchtitan)** [![GitHub_Stars](https://img.shields.io/github/stars/pytorch/torchtitan?style=social&color=white)](https://github.com/pytorch/torchtitan/stargazers)  
   *PyTorch's clean, native showcase repository for distributed large-scale model pre-training (BSD-3-Clause).* Demonstrates 3D parallelism (Tensor, Pipeline, and FSDP2 Parallelism) using native PyTorch components without external third-party dependencies.
 
-- **[LitServe (Lightning AI)](https://github.com/Lightning-AI/LitServe)** [![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social&color=white)](https://github.com/Lightning-AI/LitServe/stargazers)  
+- **[LitServe (Lightning AI)](https://github.com/Lightning-AI/LitServe)** [![GitHub_Stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social&color=white)](https://github.com/Lightning-AI/LitServe/stargazers)  
   *Ultra-fast, lightweight Python serving engine for AI models (Apache-2.0).* Provides built-in batching, streaming, auto-scaling, and multi-GPU workers with lower latency and higher requests-per-second throughput than standard FastAPI backends.
 
-- **[NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/gpu-operator?style=social&color=white)](https://github.com/NVIDIA/gpu-operator/stargazers)  
+- **[NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/gpu-operator?style=social&color=white)](https://github.com/NVIDIA/gpu-operator/stargazers)  
   *Automates the management of NVIDIA software components on Kubernetes (Apache-2.0).* Dynamically provisions drivers, NVIDIA Container Toolkit, GPU feature discovery, Multi-Instance GPU (MIG) slicing, and DCGM monitoring metrics across heterogeneous clusters.
 
-- **[KAI Scheduler](https://github.com/kai-scheduler/KAI-Scheduler)** [![GitHub stars](https://img.shields.io/github/stars/kai-scheduler/KAI-Scheduler?style=social&color=white)](https://github.com/kai-scheduler/KAI-Scheduler/stargazers)  
+- **[KAI Scheduler](https://github.com/kai-scheduler/KAI-Scheduler)** [![GitHub_Stars](https://img.shields.io/github/stars/kai-scheduler/KAI-Scheduler?style=social&color=white)](https://github.com/kai-scheduler/KAI-Scheduler/stargazers)  
   *Kubernetes batch and GPU scheduler powering NVIDIA Run:ai architecture (CNCF Sandbox, Apache-2.0).* Features gang scheduling, bin-packing, hierarchical queues, Dominant Resource Fairness (DRF), and GPU fractional resource consolidation.
 
-- **[AIBuildAI (UCSD)](https://github.com/aibuildai/AI-Build-AI)** [![GitHub stars](https://img.shields.io/github/stars/aibuildai/AI-Build-AI?style=social&color=white)](https://github.com/aibuildai/AI-Build-AI/stargazers)  
+- **[AIBuildAI (UCSD)](https://github.com/aibuildai/AI-Build-AI)** [![GitHub_Stars](https://img.shields.io/github/stars/aibuildai/AI-Build-AI?style=social&color=white)](https://github.com/aibuildai/AI-Build-AI/stargazers)  
   *Autonomous multi-agent system that engineers and builds AI pipelines end-to-end (Open-source).* Achieved 63.1% win rate on OpenAI MLE-Bench with specialized Manager, Designer, Coder, and Tuner agents coordinating across on-disk trajectories.
 
-- **[Flowillower](https://github.com/THU-CVML/flowillower)** [![GitHub stars](https://img.shields.io/github/stars/THU-CVML/flowillower?style=social&color=white)](https://github.com/THU-CVML/flowillower/stargazers)  
+- **[Flowillower](https://github.com/THU-CVML/flowillower)** [![GitHub_Stars](https://img.shields.io/github/stars/THU-CVML/flowillower?style=social&color=white)](https://github.com/THU-CVML/flowillower/stargazers)  
   *Distributed, Git-native experiment tracking and model explanation tool (Apache-2.0).* Lightweight, decentralized alternative to SaaS platforms; keeps all tracking runs stored directly in Git directories without external centralized servers.
 
-- **[RunRaccoon](https://github.com/Gene-Weaver/RunRaccoon)** [![GitHub stars](https://img.shields.io/github/stars/Gene-Weaver/RunRaccoon?style=social&color=white)](https://github.com/Gene-Weaver/RunRaccoon/stargazers)  
+- **[RunRaccoon](https://github.com/Gene-Weaver/RunRaccoon)** [![GitHub_Stars](https://img.shields.io/github/stars/Gene-Weaver/RunRaccoon?style=social&color=white)](https://github.com/Gene-Weaver/RunRaccoon/stargazers)  
   *Local-first, drop-in replacement for experiment tracking (Open-source).* Integrates directly with Ultralytics and YOLO workflows, saving metrics into human-readable JSONL files, colorblind-safe charts, and training-progress media.
 
 ---
@@ -183,7 +183,7 @@ We welcome additions, corrections, and benchmark updates from the AI infrastruct
 2. **Create a branch**: `git checkout -b feature/add-new-build-system`
 3. **Add entry** to `README.md`:
    - For SaaS products: include specific starting tier pricing and specific free trial/plan limits.
-   - For Open-Source projects: follow the star badge formatting with `style=social&color=white` and link to the repo's `/stargazers` page. Place it sorted strictly by star count.
+   - For Open-Source projects: follow the Stars_Badge formatting with `style=social&color=white` and link to the repo's `/stargazers` page. Place it sorted strictly by Stars_Count.
 4. **Commit and open a Pull Request** with a concise summary of the addition.
 
 ---
